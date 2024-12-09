@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const BASE = '/awakened-poe-trade/'
+const BASE = '/awakened-poe2-trade/'
 
 export default defineConfig({
   title: 'Awakened PoE Trade',
@@ -22,13 +22,13 @@ export default defineConfig({
     // logo: 'TODO', https://github.com/vuejs/vitepress/issues/1401
     appVersion: '3.25.101',
     github: {
-      releasesUrl: 'https://github.com/SnosMe/awakened-poe-trade/releases'
+      releasesUrl: 'https://github.com/pkp24/awakened-poe2-trade/releases'
     },
     socialLinks: [
       {
         text: 'Discord',
         color: '#7289DA',
-        link: 'https://github.com/SnosMe/awakened-poe-trade/issues/22'
+        link: 'https://github.com/pkp24/awakened-poe2-trade/issues/22'
       },
       {
         text: 'Patreon',
@@ -38,7 +38,7 @@ export default defineConfig({
       {
         text: 'GitHub',
         color: '#181717',
-        link: 'https://github.com/SnosMe/awakened-poe-trade'
+        link: 'https://github.com/pkp24/awakened-poe2-trade'
       }
     ],
     sidebar: [

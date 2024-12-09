@@ -405,7 +405,7 @@ export function createTradeRequest (filters: ItemFilters, stats: StatFilter[], i
           { id: TARGET_ID.TOTAL_MODIFIERS, value: { min: 6, max: undefined }, disabled: stat.disabled }
         ]
       })
-    } else if ( // https://github.com/SnosMe/awakened-poe-trade/issues/758
+    } else if ( // https://github.com/pkp24/awakened-poe2-trade/issues/758
       item.category === ItemCategory.Flask &&
       stat.statRef === '#% increased Charge Recovery' &&
       !stats.some(s => s.statRef === '#% increased effect')

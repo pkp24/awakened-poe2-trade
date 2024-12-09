@@ -13,10 +13,10 @@ to the developer, downloading from them may be unsafe.
 
 | Download link | Automatic updates | Startup time |
 |---------------|-------------------|--------------|
-| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/Awakened-PoE-Trade-Setup-${theme.appVersion}.exe`">Windows 10+ (installer)</a> | ✔ | Fast |
-| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/Awakened-PoE-Trade-${theme.appVersion}.exe`">Windows 10+ (portable)</a> | ❌ | Slower |
-| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/Awakened-PoE-Trade-${theme.appVersion}.AppImage`">Linux (AppImage)</a> | ✔ | n/a |
-| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/Awakened-PoE-Trade-${theme.appVersion}-universal.dmg`">macOS (dmg)</a> | ❌ | n/a |
+| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/awakened-poe2-trade-Setup-${theme.appVersion}.exe`">Windows 10+ (installer)</a> | ✔ | Fast |
+| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/awakened-poe2-trade-${theme.appVersion}.exe`">Windows 10+ (portable)</a> | ❌ | Slower |
+| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/awakened-poe2-trade-${theme.appVersion}.AppImage`">Linux (AppImage)</a> | ✔ | n/a |
+| <a :href="`${theme.github.releasesUrl}/download/v${theme.appVersion}/awakened-poe2-trade-${theme.appVersion}-universal.dmg`">macOS (dmg)</a> | ❌ | n/a |
 
 Latest version is <span class="bg-gray-100 border rounded px-1">{{ theme.appVersion }}</span>
 

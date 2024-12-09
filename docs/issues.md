@@ -14,7 +14,7 @@ title: Common issues
     If Awakened works for you with DirectX11/12 renderer,
     then problem is old Vulkan drivers for sure.
 
-4. Delete `%appdata%\awakened-poe-trade`
+4. Delete `%appdata%\awakened-poe2-trade`
 
     If needed, backup `apt-data` folder with your configuration inside.
 
@@ -33,15 +33,15 @@ title: Common issues
 
 - 🔥[There are no stats to select from when price checking](/no-item-mods)
 - [Failed to load leagues](/failed-load-leagues)
-- [How to remove the stopwatch in center of screen?](https://github.com/SnosMe/awakened-poe-trade/issues/219)
-- [Sends a whisper when doing price-check](https://github.com/SnosMe/awakened-poe-trade/issues/178)
+- [How to remove the stopwatch in center of screen?](https://github.com/SnosMe/awakened-poe2-trade/issues/219)
+- [Sends a whisper when doing price-check](https://github.com/SnosMe/awakened-poe2-trade/issues/178)
 
 ## Windows
 
 - 🔥[Nothing happens when I try to price check](/nothing-happens)
-- [Can't open settings via tray icon when game is active](https://github.com/SnosMe/awakened-poe-trade/issues/265)
+- [Can't open settings via tray icon when game is active](https://github.com/SnosMe/awakened-poe2-trade/issues/265)
 
 ## Linux
 
-- [Tray icon is not shown](https://github.com/SnosMe/awakened-poe-trade/issues/106)
-- 🔥[Screen is black](https://github.com/SnosMe/awakened-poe-trade/issues/185)
+- [Tray icon is not shown](https://github.com/SnosMe/awakened-poe2-trade/issues/106)
+- 🔥[Screen is black](https://github.com/SnosMe/awakened-poe2-trade/issues/185)

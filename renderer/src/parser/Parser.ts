@@ -873,7 +873,7 @@ function parseFilledCoffin (section: string[], item: ParsedItem) {
 function markupConditionParser (text: string) {
   // ignores state set by <<set:__>>
   // always evaluates first condition to true <if:__>{...}
-  // full markup: https://gist.github.com/SnosMe/151549b532df8ea08025a76ae2920ca4
+  // full markup: https://gist.github.com/pkp24/151549b532df8ea08025a76ae2920ca4
 
   text = text.replace(/<<set:.+?>>/g, '')
   text = text.replace(/<(if:.+?|elif:.+?|else)>{(.+?)}/g, (_, type: string, body: string) => {

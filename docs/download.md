@@ -8,7 +8,7 @@ import { useData } from 'vitepress'
 const { theme } = useData()
 </script>
 
-You can download Awakened Poe Trade here. Any other mirrors are not known
+You can download Awakened Poe2 Trade here. Any other mirrors are not known
 to the developer, downloading from them may be unsafe.
 
 | Download link | Automatic updates | Startup time |
@@ -36,6 +36,6 @@ warnings on Windows and [macOS](https://support.apple.com/en-us/HT202491#openany
 
 No Administrator rights required, but\
 ⚠ **If you run PoE client as Admin, OS security boundaries take effect.
-In order for Awakened PoE Trade to have access to the PoE window, it must be started with Administrator rights.**
+In order for Awakened PoE2 Trade to have access to the PoE window, it must be started with Administrator rights.**
 
 ❌ **Not compatible with "GeForce Now" or any other cloud gaming service that do not forward clipboard data.**

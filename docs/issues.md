@@ -22,7 +22,7 @@ title: Common issues
 
     Launch them later one at a time to identify **conflict**.
 
-6. Restart Awakened PoE Trade.
+6. Restart Awakened PoE2 Trade.
 
     *(don't forget to quit first, otherwise launching second instance will do nothing).*
 

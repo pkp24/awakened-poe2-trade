@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 const BASE = '/awakened-poe2-trade/'
 
 export default defineConfig({
-  title: 'Awakened PoE Trade',
+  title: 'Awakened PoE 2 Trade',
   description: 'App for price-checking items in Path of Exile',
   base: BASE,
   mpa: true,
@@ -20,21 +20,11 @@ export default defineConfig({
   },
   themeConfig: {
     // logo: 'TODO', https://github.com/vuejs/vitepress/issues/1401
-    appVersion: '3.25.101',
+    appVersion: '0.0.3',
     github: {
       releasesUrl: 'https://github.com/pkp24/awakened-poe2-trade/releases'
     },
     socialLinks: [
-      {
-        text: 'Discord',
-        color: '#7289DA',
-        link: 'https://github.com/pkp24/awakened-poe2-trade/issues/22'
-      },
-      {
-        text: 'Patreon',
-        color: '#FF424D',
-        link: 'https://patreon.com/awakened_poe_trade'
-      },
       {
         text: 'GitHub',
         color: '#181717',

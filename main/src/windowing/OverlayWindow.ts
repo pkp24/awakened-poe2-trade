@@ -138,14 +138,14 @@ export class OverlayWindow {
 
   private handleOverlayAttached = (hasAccess?: boolean) => {
     if (hasAccess === false) {
-      this.logger.write('error [Overlay] PoE is running with administrator rights')
+      this.logger.write('error [Overlay] PoE2 is running with administrator rights')
 
       dialog.showErrorBox(
         'PoE window - No access',
         // ----------------------
         'Path of Exile is running with administrator rights.\n' +
         '\n' +
-        'You need to restart Awakened PoE Trade with administrator rights.'
+        'You need to restart Awakened PoE2 Trade with administrator rights.'
       )
     } else {
       this.server.sendEventTo('broadcast', {

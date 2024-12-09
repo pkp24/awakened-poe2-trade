@@ -1,3 +1,6 @@
+###I should not be the person to work on the poe2 conversion, but I didn't see anyone else working on it. While you can open bug reports and feature requests, I'm not sure if they'll be addressed. The dev for poe1 has said he would prefer to leave the poe2 version/integration to someone else. https://github.com/SnosMe/awakened-poe-trade/issues/1507#issuecomment-2526396525
+
+
 # ![Awakener's Orb](https://web.poecdn.com/image/Art/2DItems/Currency/TransferOrb.png) Awakened PoE Trade
 
 [![](https://user-images.githubusercontent.com/4292308/153364874-dde23599-278c-4350-8d86-dadbc4b978b3.svg)](https://somsubhra.github.io/github-release-stats/?username=SnosMe&repository=awakened-poe-trade)
